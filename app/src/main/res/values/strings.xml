@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Troll</string>
+    <string name="title">Lemme help, where u wanna go?</string>
+    <string name="searchButton">Find my way!</string>
+    <string name="toText">To:</string>
+    <string name="fromText">From:</string>
+    <string name="trollButton">I dare you</string>
+
+    <string name="endedUp">Well you ended up here</string>
+    <string name="backButton">Back</string>
+</resources>
